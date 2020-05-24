@@ -1,6 +1,34 @@
-.jumbotron{
-	background-color: #740a969e;
-} 
+.jumbotron {
+	 background-color: #6122b5a6;
+     margin-top: 41px;
+}
+.navbar{
+	background-color: #6122b5;
+}
+.tab{
+	background-color: #f3bf04;
+    padding: 11px 50px;
+  
+    border-radius: 10px;
+    
+}
+.btn{
+font-size: 30px;
+}
+.piz-k{
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+.c1,.c2,.c3{
+	/*padding: 70px;*/
+}
 .footer{
-	background-color: #740a9638;
- }
+	 background-color:#6122b54a;
+}
+
+.modal-body{
+background: #6633996b;
+}
+.modal-header{
+ background: rebeccapurple;
+}
